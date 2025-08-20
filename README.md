@@ -1,10 +1,3 @@
-Perfect 👍 Let’s make a clean, professional `README.md` for your **Node.js HTTPS server** project.
-This will explain what it is, how to set it up, and how others can run it.
-
-Here’s a draft you can copy into a `README.md` file in your repo:
-
----
-
 # 🚀 My First Node.js HTTPS Server
 
 A simple HTTPS server built using **Node.js core modules** (`https`, `fs`) without any frameworks.
