@@ -5,7 +5,7 @@ This project demonstrates how to:
 
 * Generate SSL certificates (self-signed for development).
 * Create an HTTPS server with Node.js.
-* Serve different routes (`/`, `/about`, `/contact`).
+* Serve different routes (`/`, `/about`).
 * Send both plain text and HTML responses.
 
 ---
